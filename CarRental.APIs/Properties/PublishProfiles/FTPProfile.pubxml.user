@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp/RZp3mzxUmjqQWb611oxQAAAAACAAAAAAAQZgAAAAEAACAAAAC0SaVMBYwoK7sf7BXFVsvmEHLnHsAEknBlF8nq5CGUqQAAAAAOgAAAAAIAACAAAAAvto9UqvIYzTSwW2WxQ8/+nUaBkjyMV5NnWP1Q0rD9OCAAAAAsuT5gfnjeDt1u98cT1PcQg/QF3E61RYKiCgz586+HpkAAAAB1t6W4NeJroLqhwpk5e7uOFx1/GwlWNjXpyxGPdJhIjGx6SyOA/HeQWPR2DX1YhpAD5NNDYzVV6L3/2cXhzx2O</EncryptedPassword>
+    <_PublishTargetUrl>ftp://roadready.somee.com/www.RoadReady.somee.com</_PublishTargetUrl>
+    <History>True|2024-05-15T22:53:14.8624384Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/04/2024 19:07:06</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/16/2024 01:39:04</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>09/30/2022 11:45:38</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>09/30/2022 12:07:30</publishTime>
+    </File>
+    <File Include="Azure.Core.dll">
+      <publishTime>09/07/2023 20:50:30</publishTime>
+    </File>
+    <File Include="Azure.Identity.dll">
+      <publishTime>10/18/2023 22:59:42</publishTime>
+    </File>
+    <File Include="CarRental.APIs.deps.json">
+      <publishTime>05/16/2024 01:48:48</publishTime>
+    </File>
+    <File Include="CarRental.APIs.dll">
+      <publishTime>05/16/2024 01:48:46</publishTime>
+    </File>
+    <File Include="CarRental.APIs.exe">
+      <publishTime>05/16/2024 01:48:46</publishTime>
+    </File>
+    <File Include="CarRental.APIs.pdb">
+      <publishTime>05/16/2024 01:48:46</publishTime>
+    </File>
+    <File Include="CarRental.APIs.runtimeconfig.json">
+      <publishTime>05/16/2024 01:48:48</publishTime>
+    </File>
+    <File Include="CarRental.Core.dll">
+      <publishTime>05/16/2024 01:48:20</publishTime>
+    </File>
+    <File Include="CarRental.Core.pdb">
+      <publishTime>05/16/2024 01:48:20</publishTime>
+    </File>
+    <File Include="CarRental.Repository.dll">
+      <publishTime>05/16/2024 01:48:27</publishTime>
+    </File>
+    <File Include="CarRental.Repository.pdb">
+      <publishTime>05/16/2024 01:48:27</publishTime>
+    </File>
+    <File Include="CarRental.Service.dll">
+      <publishTime>05/16/2024 01:48:30</publishTime>
+    </File>
+    <File Include="CarRental.Service.pdb">
+      <publishTime>05/16/2024 01:48:30</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>03/21/2024 01:35:34</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.Internal.dll">
+      <publishTime>03/21/2024 01:34:02</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.KeyDerivation.dll">
+      <publishTime>03/21/2024 01:34:36</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll">
+      <publishTime>03/21/2024 01:34:52</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/23/2021 01:47:36</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>01/27/2024 04:49:42</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/11/2023 21:56:18</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>03/20/2024 01:34:10</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>03/20/2024 01:34:48</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>03/20/2024 01:35:40</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>03/20/2024 01:35:48</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Identity.Core.dll">
+      <publishTime>03/21/2024 01:34:44</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Identity.Stores.dll">
+      <publishTime>03/21/2024 01:34:44</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>01/18/2024 05:05:26</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>09/05/2023 21:25:28</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.Extensions.Msal.dll">
+      <publishTime>09/05/2023 21:31:58</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>11/21/2023 03:54:14</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>11/21/2023 03:11:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>11/21/2023 03:14:30</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>11/21/2023 03:17:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>11/21/2023 03:30:36</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>11/21/2023 03:23:16</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 22:14:12</publishTime>
+    </File>
+    <File Include="Microsoft.SqlServer.Server.dll">
+      <publishTime>01/27/2022 19:19:08</publishTime>
+    </File>
+    <File Include="Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/23/2021 01:40:18</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 17:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 17:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 17:21:48</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>08/19/2022 21:58:02</publishTime>
+    </File>
+    <File Include="System.Drawing.Common.dll">
+      <publishTime>10/23/2021 01:48:10</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>11/21/2023 03:10:00</publishTime>
+    </File>
+    <File Include="System.Memory.Data.dll">
+      <publishTime>04/08/2021 18:45:54</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>10/23/2021 01:52:44</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>10/23/2021 01:51:04</publishTime>
+    </File>
+    <File Include="System.Security.Permissions.dll">
+      <publishTime>10/23/2021 01:49:50</publishTime>
+    </File>
+    <File Include="System.Windows.Extensions.dll">
+      <publishTime>10/23/2021 01:49:58</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/16/2024 01:48:49</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/15341cf9-8680-4e5d-aa7b-f0fe1ae61da5images %281%29.jpeg">
+      <publishTime>05/13/2024 20:59:12</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/269f3fdb-bbbc-46bd-a7bb-00cc9e4aa2d4images %284%29.jpeg">
+      <publishTime>05/13/2024 21:29:48</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/6422473f-d398-4a9e-a193-6f3cdf8909d0download %282%29.jpeg">
+      <publishTime>05/13/2024 21:29:48</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/6508b7d5-95ca-4db9-af98-f4749edec3d3car-rent-4.png">
+      <publishTime>05/13/2024 21:06:17</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/6b6750c4-e013-4c06-b818-51e280075ef2images %283%29.jpeg">
+      <publishTime>05/13/2024 21:20:22</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/8ee166ac-69a5-45ba-9335-1bd59c45c021download.jpeg">
+      <publishTime>05/13/2024 21:20:22</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/9f33012a-c678-496e-9424-291e84bdbc72car-rent-5.png">
+      <publishTime>05/13/2024 21:03:36</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/a1793a6e-18ef-4770-ad30-ee157d9614d8download %281%29.jpeg">
+      <publishTime>05/13/2024 21:02:10</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/a1bed313-4855-472e-be92-9c06fa90c8b4images %283%29.jpeg">
+      <publishTime>05/13/2024 21:20:22</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/a218f77f-b685-44fc-ac2c-773f5cf9f774car-rent-2.png">
+      <publishTime>05/13/2024 21:21:41</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/c15d9813-93a1-4ea2-aa45-865405ab99cbimages %282%29.jpeg">
+      <publishTime>05/13/2024 21:02:10</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/c886ba89-69a3-463f-8780-458612caae88car-rent-1.png">
+      <publishTime>05/13/2024 21:23:38</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/cc3d1484-5d79-473d-9e6c-41984a3b348fimages.jpeg">
+      <publishTime>05/13/2024 20:59:12</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/cd78c22a-15dd-4915-8a5b-e68f6180808fimages %284%29.jpeg">
+      <publishTime>05/13/2024 21:29:48</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/ec7b27fe-563d-4768-8797-29d5c96185c3car-rent-3.png">
+      <publishTime>05/13/2024 21:31:43</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/f0f613c2-f754-4f89-a60f-cd1df37e9972images %282%29.jpeg">
+      <publishTime>05/13/2024 21:02:10</publishTime>
+    </File>
+    <File Include="wwwroot/files/images/f82a5f43-fc1d-40f7-bb08-3787338a2e23images %281%29.jpeg">
+      <publishTime>05/13/2024 20:59:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\bin\Release\net8.0\CarRental.Core.deps.json
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\bin\Release\net8.0\CarRental.Core.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\bin\Release\net8.0\CarRental.Core.pdb
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\CarRental.Core.csproj.AssemblyReference.cache
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\CarRental.Core.AssemblyInfoInputs.cache
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\CarRental.Core.AssemblyInfo.cs
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\CarRental.Core.csproj.CoreCompileInputs.cache
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\CarRental.Core.sourcelink.json
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\CarRental.Core.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\refint\CarRental.Core.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\CarRental.Core.pdb
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Release\net8.0\ref\CarRental.Core.dll

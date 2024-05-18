@@ -1,0 +1,16 @@
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\bin\Release\net8.0\CarRental.Service.deps.json
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\bin\Release\net8.0\CarRental.Service.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\bin\Release\net8.0\CarRental.Service.pdb
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\bin\Release\net8.0\CarRental.Core.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\bin\Release\net8.0\CarRental.Core.pdb
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\CarRental.Service.csproj.AssemblyReference.cache
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\CarRental.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\CarRental.Service.AssemblyInfoInputs.cache
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\CarRental.Service.AssemblyInfo.cs
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\CarRental.Service.csproj.CoreCompileInputs.cache
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\CarRental.Service.sourcelink.json
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\CarRenta.B9CB90D3.Up2Date
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\CarRental.Service.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\refint\CarRental.Service.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\CarRental.Service.pdb
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Service\obj\Release\net8.0\ref\CarRental.Service.dll
